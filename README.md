@@ -2,8 +2,7 @@
 - 
 - 👀 I’m interested in web devlopment and all sorts of other computer related stuffs
 - 
-- 🌱 I’m currently learning javascript through the wonderful resource The Odin Project
-- 🌱 while I pursue a Computer Science degree.
+- 🌱 Pursuing a CS degree and learning WebDev via The Odin Project
 
 
 <!---
