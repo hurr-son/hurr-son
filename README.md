@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hurr-son
 - 
-- 👀 I’m interested in web devlopment and all sorts of other computer related stuffs
+- 👀 I’m interested in all sorts of computer related stuffs
 - 
-- 🌱 Pursuing a CS degree and learning WebDev via The Odin Project
+- 🌱 Pursuing a CS degree
 
 
 <!---
