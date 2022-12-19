@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in all sorts of computer related stuffs
 - 
-- 🌱 Pursuing a CS degree
+- 🌱 Pursuing a CS and Sociology degree at the University of Wisconsin-Milwaukee
 
 
 <!---
