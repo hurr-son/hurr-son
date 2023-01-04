@@ -2,7 +2,9 @@
 - 
 - 👀 I’m interested in all sorts of computer related stuffs
 - 
-- 🌱 Pursuing a CS and Sociology degree at the University of Wisconsin-Milwaukee
+- 🌱 Sociology degree at the University of Wisconsin-Milwaukee
+- 🌱 I've been learning webdev for the past six as a hobby
+- 🌱 I've enjoyed it so much that I would like to turn it into a career
 
 
 <!---
