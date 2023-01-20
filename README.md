@@ -3,8 +3,8 @@
 - 👀 I’m interested in all sorts of computer related stuffs
 - 
 - 🌱 Sociology degree at the University of Wisconsin-Milwaukee
-- 🌱 I've been learning webdev for the past six as a hobby
-- 🌱 I've enjoyed it so much that I would like to turn it into a career
+- 🌱 I've been learning web dev currently. 
+- 🌱 Plan on delving deeper into Python and it's applications in data science
 
 
 <!---
