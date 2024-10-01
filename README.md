@@ -1,4 +1,4 @@
-👋 Hi, I'm Harrison Prewett!
+👋 Hi, I'm hurr-son
 
 OSINT nerd, Geospatial Data Specialist, and Imagery Analyst with experience in AI/ML. I build efficient pipelines, automate imagery analysis, and work with tools like GDAL, Rasterio, and QGIS to transform and analyze complex spatial datasets.
 
