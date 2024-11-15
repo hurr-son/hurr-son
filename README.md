@@ -1,6 +1,4 @@
-👋 Hi, I'm hurr-son
-
-OSINT nerd, Geospatial Data Specialist, and Imagery Analyst with experience in AI/ML. 
+Stay curious.
 
 
 <!---
