@@ -5,8 +5,6 @@ I began my journey into tech in 2022 with [The Odin Project](https://www.theodin
 This experience taught me that growth has no limits. As Justin Kan says:  
 *"It's not where your Y-intercept is that matters, it's your slope of learning."*
 
-Now, I’m planning to get back into web development, focusing on **Node.js** to expand my backend expertise and build even more robust applications.
-
 ---
 
 ### 📫 Let's Connect!
